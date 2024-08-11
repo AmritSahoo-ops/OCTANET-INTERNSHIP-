@@ -28,7 +28,6 @@ header {
   overflow-x: hidden;
   padding: 15px 0;
   display: block;
-  position: fixed;
   top: 8px;
   background-color: #fff;
   z-index: 9999999;
