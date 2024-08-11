@@ -100,8 +100,8 @@ header nav ul li a:hover {
   z-index: -99;
   content: "";
   margin: auto;
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 580px;
   background: #0c66ff;
   border-radius: 62% 47% 82% 35% / 45% 45% 80% 66%;
   will-change: border-radius, transform, opacity;
