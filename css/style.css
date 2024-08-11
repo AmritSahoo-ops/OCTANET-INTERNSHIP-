@@ -108,7 +108,7 @@ header nav ul li a:hover {
   animation: sliderShape 5s linear infinite;
   display: block;
   z-index: -1;
-  background-image: url(./images/47533724761.jpg);
+  background-image: url('./images/47533724761.jpg');
   background-repeat: no-repeat;
   background-position: center;
   -webkit-animation: sliderShape 5s linear infinite;
